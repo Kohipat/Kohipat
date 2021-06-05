@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kohipat</h1>
-<h3 align="center">If you can't win 😉 Make them win.</h3>
+<h3 align="center">If you can't win 😉 Make him win.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kohipat&label=Profile%20views&color=0e75b6&style=flat" alt="kohipat" /> </p>
 
